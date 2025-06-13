@@ -1,0 +1,58 @@
+# Alat inti
+builtwith
+requests>=2.32.2,<=2.32.2  # Memastikan satu versi requests yang konsisten
+argparse>=1.4.0,<2.0
+mmh3
+PyExecJS
+python3-nmap
+beautifulsoup4
+fake-useragent
+googlesearch-python
+alive-progress
+ratelimit
+pyjwt
+boto3
+waybackpy
+dnspython
+python-whois
+shodan
+# nmap3
+aiohttp
+colorama
+urllib3>=1.26.9,<2.0
+whois
+droopescan
+python-nmap
+crypto
+pyopenssl
+slither-analyzer
+awscli
+solc-select
+openai>=1.30.2,<1.31.0  # Mengunci versi openai
+anthropic
+# subprocess
+# shutil
+
+# Modul tambahan
+mechanize~=0.4.8
+html5lib~=1.1
+jinja2==3.1.4
+tabulate
+bs4
+stringdist
+tld
+yattag
+
+#autoscanbug
+defusedxml
+aiosignal==1.3.1
+async-timeout==4.0.3
+attrs==23.1.0
+certifi==2023.7.22
+charset-normalizer==3.2.0
+frozenlist==1.4.0
+idna==3.7
+multidict==6.0.4
+soupsieve==2.5
+tqdm==4.66.3
+yarl==1.9.2
