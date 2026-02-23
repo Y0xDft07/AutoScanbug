@@ -48,19 +48,7 @@ AutoScanBug adalah alat pemindaian otomatis yang dirancang untuk mendeteksi berb
 
 ## 🛡️ Rekomendasi Perlindungan
 
-Setiap deteksi kerentanan disertai saran mitigasi:
-
-```markdown
-### Perlindungan SQL Injection
-- Gunakan prepared statements dengan parameterized queries
-- Terapkan validasi input yang ketat
-- Batasi hak akses database seminimal mungkin
-
-### Perlindungan RCE
-- Sanitasi semua input pengguna
-- Nonaktifkan fungsi berbahaya di produksi
-- Gunakan sandboxing jika memungkinkan
-```
+[Setiap deteksi kerentanan disertai saran mitigasi](https://github.com/Y0xDft07/AutoScanbug/blob/main/auto_scan_bug.md)
 
 ## 🚀 Instalasi
 
